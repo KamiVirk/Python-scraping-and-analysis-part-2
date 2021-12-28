@@ -1,6 +1,6 @@
 # python-web-scraping-and-data-anaysis-part-2
  
-## DATA COLLECTION
+## DATA analysis
 
 Basic purpose is to practice python basics for web scraping.
 
